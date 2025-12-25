@@ -1,0 +1,31 @@
+{
+  "name": "beyondchats-article-optimizer",
+  "version": "1.0.0",
+  "description": "NodeJS script to optimize articles using Google Search and LLM",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:mock": "node src/index-mock.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "article",
+    "optimization",
+    "llm",
+    "google-search",
+    "web-scraping"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "openai": "^4.20.1",
+    "puppeteer": "^21.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

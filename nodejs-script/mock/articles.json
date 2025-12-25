@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of AI-Powered Customer Support",
+    "content": "Artificial Intelligence is revolutionizing how businesses interact with their customers. In this comprehensive guide, we explore the latest trends in AI-powered customer support and how companies can leverage these technologies to improve customer satisfaction.\n\nAI chatbots have evolved significantly over the past few years. Modern chatbots can understand context, handle complex queries, and provide personalized responses. They're available 24/7, reducing response times and improving customer experience.\n\nKey benefits include:\n- Instant response times\n- Consistent service quality\n- Cost reduction\n- Scalability\n- Data-driven insights\n\nAs we move forward, the integration of AI in customer support will only deepen, creating more seamless and efficient customer experiences.",
+    "author": "BeyondChats Team",
+    "published_at": "2024-12-24T10:00:00Z",
+    "created_at": "2024-12-24T10:00:00Z",
+    "is_updated": false,
+    "citations": null,
+    "url": "https://beyondchats.com/blogs/ai-customer-support"
+  },
+  {
+    "id": 2,
+    "title": "Building Scalable Chat Solutions for Enterprise",
+    "content": "Enterprise chat solutions require careful planning and robust architecture. This article discusses best practices for building scalable chat systems that can handle millions of concurrent users.\n\nScalability challenges:\n1. Message delivery at scale\n2. Real-time synchronization\n3. Data persistence\n4. Load balancing\n5. Security and compliance\n\nWe recommend using microservices architecture, implementing proper caching strategies, and choosing the right database solutions. WebSocket connections should be managed efficiently, and horizontal scaling should be planned from the start.\n\nSecurity is paramount in enterprise environments. Implement end-to-end encryption, proper authentication mechanisms, and regular security audits.",
+    "author": "BeyondChats Engineering",
+    "published_at": "2024-12-22T10:00:00Z",
+    "created_at": "2024-12-22T10:00:00Z",
+    "is_updated": false,
+    "citations": null,
+    "url": "https://beyondchats.com/blogs/scalable-chat"
+  }
+]
